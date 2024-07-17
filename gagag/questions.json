@@ -1,0 +1,114 @@
+{
+    "response_code": 0,
+    "results": [
+       
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Algebra",
+            "question": "Для чего придумали компьютер?",
+            "correct_answer": "Человек создал компьютер для облегчения работы с информацией",
+            "incorrect_answers": ["Человек создал компьютер для того, чтобы играть на нем", "Человек создал компьютер, потому что было скучно", "Человек создал компьютер тапать хомячка"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geometry",
+            "question": "Сколько битов в 62 байтах?",
+            "correct_answer": "496",
+            "incorrect_answers": ["488", "432", "584"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Algebra",
+            "question": "Какая клавиша включает заглавных букв?",
+            "correct_answer": "CapsLock",
+            "incorrect_answers": ["NumLock", "Enter", "Insert"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Algebra",
+            "question": "Cтруктура, которая представляет собой последовательность действий, повторяющихся многократно?",
+            "correct_answer": "Цикл",
+            "incorrect_answers": ["Ветвление", "Функция", "Рекурсия"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Algebra",
+            "question": "Что определяет индекс массива?",
+            "correct_answer": "Номер элемента в массиве",
+            "incorrect_answers": ["Положение элементов массива относительно друг друга", "Количество элементов", "Номера и количество элементов"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Algebra",
+            "question": "Что такое переменная?",
+            "correct_answer": "Ячейка памяти, хранящая в себе ту или иную информацию",
+            "incorrect_answers": ["Функция программы, выполняющая определённую роль", "Необязательная чаcть кода, выполняющая заданное действие", "Обязательная часть кода, отвечающая за перемещение"]
+        },
+       
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mathematics",
+            "question": "Что такое массив?",
+            "correct_answer": "Совокупность конечного числа данных одного типа ",
+            "incorrect_answers": ["Совокупность конечного числа данных различных типов", "Совокупность начального чиcла данных любого типа ", "Скалярный тип данных"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geometry",
+            "question": "Какой символ можно использовать в имени переменной?",
+            "correct_answer": "Подчёркивание ",
+            "incorrect_answers": ["Собачка", "Плюс", "Пробел"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Algebra",
+            "question": "Когда необходимо составить блок-схему программы?",
+            "correct_answer": "До начала составления программы",
+            "incorrect_answers": ["Во время составления программы", "После составления программы", "Она не нужна"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Probability",
+            "question": "Разработкой алгоритма решения задачи принято называть",
+            "correct_answer": "Определение последовательности действий, ведущих к получению результата ",
+            "incorrect_answers": ["Точное описание данных задачи, условия и полного решения", "Сведение задачи к математической модели, для которой известен метод решения", "Разделение задачи на ярусы, и их последовательное решение"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Probability",
+            "question": "Как называется алгоритм, в котором действия выполняются друг за другом, не повторяясь?",
+            "correct_answer": "Линейный ",
+            "incorrect_answers": ["Разветвлённый", "Циклический", "Такого алгоритма не сущетсвует"]
+        }
+        ,
+        
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Probability",
+            "question": "Чем характеризуется переменная?",
+            "correct_answer": "Именеем, типом, значением ",
+            "incorrect_answers": [" Именем и значением", "Значением и типом", "Только именем"]
+        }
+        ,
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Probability",
+            "question": "Служебное слово, открывающее раздел операторов -",
+            "correct_answer": "begin ",
+            "incorrect_answers": ["start", "began", "code"]
+        }
+    ]
+}

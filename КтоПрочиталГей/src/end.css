@@ -1,0 +1,15 @@
+#hint-btn{
+    margin-top: 25px;
+    width: 96px;
+    height: 96px;
+    border: none;
+    background: url(https://img.icons8.com/color/96/light.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    transition: 0.2s;
+    display: block;
+    }
+    #hint-btn:hover{
+    transform: scale(1.02);
+    }
